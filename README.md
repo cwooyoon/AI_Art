@@ -1,7 +1,7 @@
 # Welcome to Changwoo Yoon's AI Art & Researches Page
 
 My concept of Artwork is a fusion of AI Technology with artwork generation.
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+<img width="1039" alt="rename_screenshot" src="https://github.com/cwooyoon/AIArt-AI-Researches/blob/readme-edits/images/Primitive_Sense_Series.png">
 
 ## Repositories
 
