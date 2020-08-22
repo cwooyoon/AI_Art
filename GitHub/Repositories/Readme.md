@@ -2,7 +2,7 @@
 
 ## Site Lists
 
-https://github.com/topics/ai-art
+6 public repositories  https://github.com/topics/ai-art
 
 https://github.com/llSourcell/AI_Artist
 
