@@ -5,3 +5,5 @@
 
 * https://www.sfac.or.kr/participation/sfac_program.do?eduGubunSel=&pageIndex=&eduMstSeq=29650&eduScheSeq=&mode=VIEW&mstStatus=
 
+* <img src="https://www.sfac.or.kr/upload/daumeditor/50d156c2-5e54-4320-844a-f2522ee9c2e3.png">
+
