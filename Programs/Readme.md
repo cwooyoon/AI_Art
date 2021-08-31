@@ -1,5 +1,10 @@
 # AI Art Program...
 
+## Quick Draw
+* https://www.youtube.com/watch?v=mlR60AhGCrQ
+* https://quickdraw.withgoogle.com/shared/wsC5Kfvaoxhm?locale=ko
+
+
 ## Deepfake Movements with 1 image ONLY - This is just too Memeable [Liquid Warping GAN]
 * https://www.youtube.com/watch?v=Zkrcx3_DtCw
 * Trump Doing Chika Dance
