@@ -1,5 +1,10 @@
 # AI Art Program...
 
+## 인공지능 시각 지능 실습 사이트 9곳
+* https://www.youtube.com/watch?v=ARMAzFP3WOk
+* https://hellosoft.fun/aidemo/
+
+
 ## 인공지능과 그림 그리기! AutoDraw의 간단한 사용법을 익혀볼까요?
 * https://www.youtube.com/watch?v=bHcWZyOZSr4
 * https://www.autodraw.com/
