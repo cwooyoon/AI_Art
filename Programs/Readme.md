@@ -1,5 +1,10 @@
 # AI Art Program...
 
+## Neural Synesthesia
+* https://vimeo.com/neuralsynesthesia
+* https://wzrd.ai/
+
+
 ## Deep Dream
 * Everywhere you look nowadays you find AI. From filters on snap chat, tools in photoshop, the ads next to videos and even the video suggestions next to this video. Two such AI programs allow you to make amazing AI art and bend reality in weird ways.
 
