@@ -4,6 +4,9 @@
 * https://www.youtube.com/watch?v=ARMAzFP3WOk
 * https://hellosoft.fun/aidemo/
 
+## #4 공공인공지능 시각지능 데모 - 다양한 시각지능 API 제공 - 이미지인식 - 비전공자 쉬운 간단한 초등학생 중학생 초보자 인공지능 실습 체험
+* https://www.youtube.com/watch?v=8nu0oH8O_sQ
+
 
 ## 인공지능과 그림 그리기! AutoDraw의 간단한 사용법을 익혀볼까요?
 * https://www.youtube.com/watch?v=bHcWZyOZSr4
