@@ -8,13 +8,13 @@
 * Deep dream on the other hand is ai turned on it's head. Instead of using the AI to classify things, we allow it to manipulate an image to fit some of the data its already learned. This produces sureal images where animals and structure get generated out of noise.
 
 * All of this is done in an online tool called Deep Dream Generator: https://deepdreamgenerator.com
-
+  - https://www.youtube.com/watch?v=du_YnoC6dKU
 
 * Some further reading and references:
 
-* Original Paper Style Transfer - https://arxiv.org/pdf/1508.06576.pdf
-* Deep Dream Article - https://research.googleblog.com/2015/...
-* Deep Dream Video by computerphile - https://www.youtube.com/watch?v=BsSmB...
+  - Original Paper Style Transfer - https://arxiv.org/pdf/1508.06576.pdf
+  - Deep Dream Article - https://research.googleblog.com/2015/...
+  - Deep Dream Video by computerphile - https://www.youtube.com/watch?v=BsSmB...
 
 
 ## DALL.E
