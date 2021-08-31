@@ -89,3 +89,5 @@
 
 ## 엔비디아 캔버스 인공지능 그림그리기 프로그램 로고
 * https://www.youtube.com/watch?v=erT0kNjRZoo
+* http://nvidia-research-mingyuliu.com/gaugan/
+* 
