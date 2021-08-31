@@ -12,3 +12,13 @@
 ## AICAN
 * https://aican.io/
 
+## CLIP
+* https://openai.com/blog/clip/
+* https://blog.roboflow.com/how-to-use-openai-clip/
+* https://blog.roboflow.com/how-we-built-paint-wtf-an-ai-that-judges-your-art-100-000-submissions/
+* https://blog.roboflow.com/zero-shot-content-moderation-openai-new-clip-model/
+* https://blog.roboflow.com/clip-model-eli5-beginner-guide/
+* https://blog.roboflow.com/openai-clip-prompt-engineering/
+* https://compvis.github.io/taming-transformers/
+* CLIP+VQGAN Google Colab Notebook: https://bit.ly/clip-vqgan
+* 
