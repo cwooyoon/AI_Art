@@ -81,3 +81,6 @@
 * https://www.youtube.com/watch?v=6yeo1xhq8Wg
 * https://github.com/singnet/style-transfer-service/blob/master/README.md
 * 
+
+## 엔비디아 캔버스 인공지능 그림그리기 프로그램 로고
+* https://www.youtube.com/watch?v=erT0kNjRZoo
