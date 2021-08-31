@@ -1,6 +1,7 @@
 # AI Art Program...
 
 ## Neural Synesthesia
+* https://www.youtube.com/watch?v=85l961MmY8Y
 * https://vimeo.com/neuralsynesthesia
 * https://wzrd.ai/
 
