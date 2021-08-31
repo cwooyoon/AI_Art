@@ -1,5 +1,18 @@
 # AI Art Program...
 
+## Deepfake Movements with 1 image ONLY - This is just too Memeable [Liquid Warping GAN]
+* https://www.youtube.com/watch?v=Zkrcx3_DtCw
+* Trump Doing Chika Dance
+  - https://youtu.be/fy3mPJIaPdw
+
+* Liquid Warping GAN/iPERCore
+  - [Project Page] https://www.impersonator.org/work/impersonator-plus-plus.html
+  - [Paper] https://arxiv.org/pdf/2011.09055.pdf
+  - [GitHub] https://github.com/iPERDance/iPERCore
+  - [Installation Tutorial] https://youtu.be/LHLfCg8kJsA
+  - [Colab (run it online)] https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing
+
+
 ## Neural Style Transfer - Transfer & Blend Multiple Styles with AI
 * https://www.youtube.com/watch?v=Eq7sYxf3XLM
 * https://github.com/ProGamerGov/neural-style-pt
