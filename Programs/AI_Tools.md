@@ -9,6 +9,7 @@
 * https://www.youtube.com/watch?v=Wh-MGO1_Hu8
 * https://www.youtube.com/watch?v=FwSSPBxOdxQ
 * https://www.youtube.com/watch?v=w4NibDLJWXM
+* 인공지능교육_티처블머신_소리를알아듣는인공지능:  https://www.youtube.com/watch?v=SHNLIoeg2QM
 
 ## 인간이 코딩하는 시대는 끝났나? 원하는대로 코딩 해주는 인공지능 공개
 * https://www.youtube.com/watch?v=8GDGBfwDdgk
