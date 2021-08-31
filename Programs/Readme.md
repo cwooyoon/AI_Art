@@ -66,3 +66,8 @@
 * https://compvis.github.io/taming-transformers/
 * CLIP+VQGAN Google Colab Notebook: https://bit.ly/clip-vqgan
 * 
+
+## AI Art With SingularityNET
+* https://www.youtube.com/watch?v=6yeo1xhq8Wg
+* https://github.com/singnet/style-transfer-service/blob/master/README.md
+* 
