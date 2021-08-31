@@ -1,5 +1,10 @@
 # AI Art Program...
 
+## 인공지능과 그림 그리기! AutoDraw의 간단한 사용법을 익혀볼까요?
+* https://www.youtube.com/watch?v=bHcWZyOZSr4
+* https://www.autodraw.com/
+
+
 ## Quick Draw
 * https://www.youtube.com/watch?v=mlR60AhGCrQ
 * https://quickdraw.withgoogle.com/shared/wsC5Kfvaoxhm?locale=ko
