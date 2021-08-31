@@ -1,5 +1,13 @@
 # AI Art Program...
 
+## Neural Style Transfer - Transfer & Blend Multiple Styles with AI
+* https://www.youtube.com/watch?v=Eq7sYxf3XLM
+* https://github.com/ProGamerGov/neural-style-pt
+* https://github.com/jcjohnson/neural-style
+* [Paper] https://arxiv.org/abs/1508.06576
+* [Tutorial] https://youtu.be/orWegmlAZC4
+
+
 ## Neural Synesthesia
 * https://www.youtube.com/watch?v=85l961MmY8Y
 * https://vimeo.com/neuralsynesthesia
