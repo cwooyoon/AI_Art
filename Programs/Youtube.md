@@ -6,3 +6,5 @@
 ## Can AI Create Original Art?
 * https://www.youtube.com/watch?v=_9g5WU3Yhls
 
+## Style Transfer and Deep Dream: Making Art with AI
+* https://www.youtube.com/watch?v=du_YnoC6dKU
