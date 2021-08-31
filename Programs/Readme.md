@@ -1,5 +1,22 @@
 # AI Art Program...
 
+## Deep Dream
+* Everywhere you look nowadays you find AI. From filters on snap chat, tools in photoshop, the ads next to videos and even the video suggestions next to this video. Two such AI programs allow you to make amazing AI art and bend reality in weird ways.
+
+* Style transfer allows you to take the style from one image, like Van Gogh's Starry Night, and transfer it to a different image. This allows you to quickly generate new master pieces by your favorite artists, or give something a fresh look. There is a version of this program that works on videos too which we'll explore in the future.
+
+* Deep dream on the other hand is ai turned on it's head. Instead of using the AI to classify things, we allow it to manipulate an image to fit some of the data its already learned. This produces sureal images where animals and structure get generated out of noise.
+
+* All of this is done in an online tool called Deep Dream Generator: https://deepdreamgenerator.com
+
+
+* Some further reading and references:
+
+* Original Paper Style Transfer - https://arxiv.org/pdf/1508.06576.pdf
+* Deep Dream Article - https://research.googleblog.com/2015/...
+* Deep Dream Video by computerphile - https://www.youtube.com/watch?v=BsSmB...
+
+
 ## DALL.E
 * https://www.youtube.com/watch?v=y_TKakn3OPA
 * https://openai.com/blog/dall-e/
